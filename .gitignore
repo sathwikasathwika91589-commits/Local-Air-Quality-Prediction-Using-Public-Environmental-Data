@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/*
+data/processed/*
+data/events.csv
+models/*
+!.gitkeep
+*.log
+*.tmp
+.DS_Store
